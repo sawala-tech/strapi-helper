@@ -1,0 +1,26 @@
+{
+  "name": "@sawala-tech/strapi-helper",
+  "version": "0.0.1",
+  "description": "Strapi helper to boost up your app model using strapi.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sawala-tech/strapi-helper.git"
+  },
+  "keywords": [
+    "csrf",
+    "token"
+  ],
+  "author": "Aldy Cavalera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sawala-tech/strapi-helper/issues"
+  },
+  "homepage": "https://github.com/sawala-tech/strapi-helper#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
