@@ -11,8 +11,7 @@
     "url": "git+https://github.com/sawala-tech/strapi-helper.git"
   },
   "keywords": [
-    "csrf",
-    "token"
+    "strapi"
   ],
   "author": "Aldy Cavalera",
   "license": "MIT",
