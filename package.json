@@ -1,6 +1,6 @@
 {
   "name": "@sawala-tech/strapi-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Strapi helper to boost up your app model using strapi.",
   "main": "dist/index.js",
   "scripts": {
